@@ -1,4 +1,4 @@
-**Bioinformatics_Diploma_NGS_Metagenomics_EBI_v5_Pipeline**
+# **Bioinformatics_Diploma_NGS_Metagenomics_EBI_v5_Pipeline**
 
 # download silva dbs
 mkdir silva_ssu silva_lsu
